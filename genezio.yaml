@@ -2,7 +2,7 @@ frontend:
     path: ./
     publish: ""
     scripts:
-        build: npm run build
+        build: npm run dev
         deploy: npm install
 name: LetsDo
 region: us-east-1
