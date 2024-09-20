@@ -1,9 +1,0 @@
-frontend:
-    path: ./
-    publish: ""
-    scripts:
-        build: npm run dev
-        deploy: npm install
-name: LetsDo
-region: us-east-1
-yamlVersion: 2

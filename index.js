@@ -26,6 +26,6 @@ app.use('/apiV1/todo', toDoRoutes);
 app.use('/apiV1/subtask', subTaskRoutes);
 
 
-app.listen(3000, () => {
+app.listen(5500, () => {
     console.log('Server is running on port 3000');
 })
